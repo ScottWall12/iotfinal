@@ -1,1 +1,1 @@
-# iotfinal
+This project contains the code to create a low-budget security system. It uses the readings from a flex sensor to determine whether the door is open or closed. On a state change, the Particle Photon board will publish an event, which will in turn be received by IFTT, which sends an alert text to the user’s cell phone. 
